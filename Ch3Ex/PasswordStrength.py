@@ -6,6 +6,6 @@ if counter < 8:
     print('Very Weak')
 elif counter == 8:
     print('Weak')
-elif counter >= 8 or counter <= 16:
+elif counter >= 8 and counter <= 16:
     print('Strong')
 else: print('Very Strong')
