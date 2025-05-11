@@ -11,3 +11,4 @@ print(b,'\t',c ** 2,'\t',c ** 3)
 print(a,'\t',d ** 2,'\t',d ** 3)
 print(a,'\t',e ** 2,'\t',e ** 3)
 print(a,'\t',f ** 2,'\t',f ** 3)
+
